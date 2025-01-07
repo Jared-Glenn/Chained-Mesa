@@ -20,6 +20,6 @@ Weapons:
 - Sixer
 
 
-Non-PLayer Characters:
+Non-Player Characters:
 
-- Something
+- A dealer who lets you gamble for additional health or strength.
