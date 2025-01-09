@@ -7,6 +7,7 @@ Premise:
 - Cornelius Ryan is having his debtors work on the chain rail in Fallen Mesa.
 - The game involves moving the base camp by expanding the railroad.
 - Multiple routes going forward or back for different reasons.
+- Each leg of the track you unlock pays a portion of your ledger, but being called back charges you, instead.
 
 Main Character:
 
