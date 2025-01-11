@@ -19,6 +19,7 @@ Weapons:
 
 - Ten blade
 - Sixer
+- Aegis Wheel
 
 
 Non-Player Characters:
