@@ -26,6 +26,7 @@ Non-Player Characters:
 
 - A dealer who lets you gamble for additional health or strength.
 - A representative from Fargo who lets you churn up a biome.
+- Filomena - Summon the House of the Western Star.
 
 Resources:
 
