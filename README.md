@@ -27,6 +27,7 @@ Non-Player Characters:
 - A dealer who lets you gamble for additional health or strength.
 - A representative from Fargo who lets you churn up a biome.
 - Filomena - Summon the House of the Western Star.
+- Wudrigar missionary from the Coylina Mission.
 
 Resources:
 
@@ -46,3 +47,4 @@ Story:
 - How would the main character do that? If the train won't go out there, Ryan will know.
 - There must be other tasks that Ryan needs done too. Maybe he completes those instead and sabotages the rail?
 - Maybe the MC also works for an opposing force, helping them against Ryan even as he does Ryan's chores.
+- 
