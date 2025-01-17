@@ -35,7 +35,7 @@ Resources:
 - Rust-water?
 - Legendary plantlife or animals
 - Ostarq?
-- 
+- Dibel (Middle Spike jewel)
 
 
 Story:
