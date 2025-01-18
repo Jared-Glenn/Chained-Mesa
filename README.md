@@ -14,6 +14,17 @@ Main Character:
 - Mugwump? Duskmott? Seems like a good fit for them.
 - Main Character is chained at the ankle, allowing Ryan to pull him back to the base camp.
 
+Mugwump MC
+
+Pros
+- Outsider perspective on duskmott society
+
+
+Duskmott MC
+
+Pros
+- Outsider perspective on kechin and Fallen Mesa.
+
 
 Weapons:
 
