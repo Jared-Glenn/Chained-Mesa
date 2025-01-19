@@ -17,7 +17,8 @@ Main Character:
 Mugwump MC
 
 Pros
-- Outsider perspective on duskmott society
+- Outsider perspective on duskmott society.
+- Way to explore racial tensions between duskmotts and mugwumps pushing into their territory.
 
 
 Duskmott MC
