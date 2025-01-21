@@ -26,6 +26,10 @@ Duskmott MC
 Pros
 - Outsider perspective on kechin and Fallen Mesa.
 - Way to explore the central themes of exploitation between duskmotts and the host kings.
+- More distinctive figure.
+
+Cons
+- Might come across as more fairy than moth.
 
 
 Weapons:
