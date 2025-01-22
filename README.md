@@ -20,6 +20,8 @@ Pros
 - Outsider perspective on duskmott society.
 - Way to explore racial tensions between duskmotts and mugwumps pushing into their territory.
 
+Cons
+- Mugwumps aren't super distinct from above.
 
 Duskmott MC
 
