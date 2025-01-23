@@ -29,6 +29,7 @@ Pros
 - Outsider perspective on kechin and Fallen Mesa.
 - Way to explore the central themes of exploitation between duskmotts and the host kings.
 - More distinctive figure.
+- Could do floating/gliding moves.
 
 Cons
 - Might come across as more fairy than moth.
