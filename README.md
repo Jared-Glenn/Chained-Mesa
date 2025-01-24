@@ -11,28 +11,14 @@ Premise:
 
 Main Character:
 
-- Mugwump? Duskmott? Seems like a good fit for them.
+- Duskmott
 - Main Character is chained at the ankle, allowing Ryan to pull him back to the base camp.
-
-Mugwump MC
-
-Pros
-- Outsider perspective on duskmott society.
-- Way to explore racial tensions between duskmotts and mugwumps pushing into their territory.
-
-Cons
-- Mugwumps aren't super distinct from above.
-
-Duskmott MC
-
-Pros
 - Outsider perspective on kechin and Fallen Mesa.
 - Way to explore the central themes of exploitation between duskmotts and the host kings.
 - More distinctive figure.
 - Could do floating/gliding moves.
 
-Cons
-- Might come across as more fairy than moth.
+
 
 
 Weapons:
@@ -67,4 +53,29 @@ Story:
 - How would the main character do that? If the train won't go out there, Ryan will know.
 - There must be other tasks that Ryan needs done too. Maybe he completes those instead and sabotages the rail?
 - Maybe the MC also works for an opposing force, helping them against Ryan even as he does Ryan's chores.
+
+
+
+Old Notes:
+- Mugwump? Duskmott? Seems like a good fit for them.
 - 
+Mugwump MC
+
+Pros
+- Outsider perspective on duskmott society.
+- Way to explore racial tensions between duskmotts and mugwumps pushing into their territory.
+
+Cons
+- Mugwumps aren't super distinct from above.
+
+Duskmott MC
+
+Pros
+- Outsider perspective on kechin and Fallen Mesa.
+- Way to explore the central themes of exploitation between duskmotts and the host kings.
+- More distinctive figure.
+- Could do floating/gliding moves.
+
+Cons
+- Might come across as more fairy than moth.
+
