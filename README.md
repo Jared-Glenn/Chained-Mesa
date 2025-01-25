@@ -26,6 +26,7 @@ Weapons:
 - Ten blade
 - Sixer
 - Aegis Wheel
+- War Pan
 
 
 Non-Player Characters:
