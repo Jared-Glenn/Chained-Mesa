@@ -34,7 +34,10 @@ Non-Player Characters:
 - A dealer who lets you gamble for additional health or strength.
 - A representative from Fargo who lets you churn up a biome.
 - Filomena - Summon the House of the Western Star.
+
+Rex Oztineka
 - Wudrigar missionary from the Coylina Mission.
+- Helps MC, but doesn't remember him. They were friends a long time ago, but the wudrigar memory is lost to time.
 
 Resources:
 
