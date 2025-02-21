@@ -57,6 +57,7 @@ Story:
 - How would the main character do that? If the train won't go out there, Ryan will know.
 - There must be other tasks that Ryan needs done too. Maybe he completes those instead and sabotages the rail?
 - Maybe the MC also works for an opposing force, helping them against Ryan even as he does Ryan's chores.
+- They could approach him during his work for Ryan, starting as enemies and becoming allies.
 
 
 
