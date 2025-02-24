@@ -35,6 +35,7 @@ Non-Player Characters:
 - A representative from Fargo who lets you churn up a biome.
 - Filomena - Summon the House of the Western Star.
 - Splinter Church building where you can get blessings from different paragons.
+- Esmund Appletree: Healing and growth.
 
 Rex Oztineka
 - Wudrigar missionary from the Coylina Mission.
