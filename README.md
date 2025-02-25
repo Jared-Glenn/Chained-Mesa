@@ -36,6 +36,7 @@ Non-Player Characters:
 - Filomena - Summon the House of the Western Star.
 - Splinter Church building where you can get blessings from different paragons.
 - Esmund Appletree: Healing and growth.
+- Gideon Splints: Damage and wounds.
 
 Rex Oztineka
 - Wudrigar missionary from the Coylina Mission.
