@@ -37,6 +37,7 @@ Non-Player Characters:
 - Splinter Church building where you can get blessings from different paragons.
 - Esmund Appletree: Healing and growth.
 - Gideon Splints: Damage and wounds.
+- Ruth Coil: Spider minions and binding in place.
 
 Rex Oztineka
 - Wudrigar missionary from the Coylina Mission.
