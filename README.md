@@ -63,6 +63,7 @@ Story:
 - Maybe the MC also works for an opposing force, helping them against Ryan even as he does Ryan's chores.
 - They could approach him during his work for Ryan, starting as enemies and becoming allies.
 - How do we confront Ryan? Should we? Paying the debt off is kinda what he wants, so does paying it off feel satisfying?
+- Maybe never paying it off, but slowing him down is the answer. Kind of like in Hades, the adventure never ends.
 
 
 
