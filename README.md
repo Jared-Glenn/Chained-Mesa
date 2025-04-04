@@ -23,7 +23,7 @@ Main Character:
 
 Weapons:
 
-- Ten blade
+- Ten blade: Unload a blade after a crit like a ranged weapon. Kind of a crit-fishing weapon.
 - Sixer
 - Aegis Wheel
 - War Pan
