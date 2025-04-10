@@ -13,6 +13,7 @@ Main Character:
 
 - Duskmott
 - Main Character is chained at the ankle, allowing Ryan to pull him back to the base camp.
+- Maybe the chain itself is a mechanic that can trip or harm enemies.
 - Outsider perspective on kechin and Fallen Mesa.
 - Way to explore the central themes of exploitation between duskmotts and the host kings.
 - More distinctive figure.
