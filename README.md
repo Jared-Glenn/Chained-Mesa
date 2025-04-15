@@ -18,6 +18,7 @@ Main Character:
 - Way to explore the central themes of exploitation between duskmotts and the host kings.
 - More distinctive figure.
 - Could do floating/gliding moves.
+- A 2.5D type of Roguelite, maybe. Elevation could play a role.
 
 
 
