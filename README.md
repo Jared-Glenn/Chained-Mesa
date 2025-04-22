@@ -29,7 +29,7 @@ Weapons:
 - Ten blade: Unload a blade after a crit like a ranged weapon. Kind of a crit-fishing weapon.
 - Sixer: Ranged weapon that can shoot many times, becoming less accurate until you "reload."
 - Aegis Wheel
-- War Pan
+- War Pan: Panning involves getting rid of the bad dirt to find the gold. Maybe scooping dirt and flinging it? Maybe catching blood somehow to sift through something? Not sure. Still need to think on it. (Kind of a Captain America style shield weapon, maybe? Feels played out. Maybe something a bit more "panning for gold" feeling?)
 
 
 Non-Player Characters:
