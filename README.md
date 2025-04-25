@@ -70,6 +70,8 @@ Story:
 - Maybe the MC needs to split their time between different things. They can clear monsters, defend the builders, or sabotage Ryan's stake in the rail. Maybe ensuring that it goes to the workers.
 - Making these into different types of work can give it a Stardew Valley feel to it while keeping the Roguelite method.
 
+### The Ledger
+- Might be a reference to how duskmotts keep track of karma.
 
 
 Old Notes:
