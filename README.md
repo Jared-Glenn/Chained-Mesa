@@ -21,6 +21,7 @@ Main Character:
 - Could do floating/gliding moves.
 - A 2.5D type of Roguelite, maybe. Elevation could play a role.
 - How would that work with melee and range? Seems like it would be easy for the player to exploit.
+- (Maybe it should be.)
 
 
 
