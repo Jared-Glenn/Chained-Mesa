@@ -58,6 +58,7 @@ Resources:
 - Legendary plantlife or animals
 - Ostarq?
 - Dibel (Middle Spike jewel)
+- Vallars (Cold hard cash)
 
 
 Story:
