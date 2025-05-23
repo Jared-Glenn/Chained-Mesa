@@ -10,6 +10,7 @@ Premise:
 - Each leg of the track you unlock pays a portion of your ledger, but being called back charges you, instead.
 - Could tie back to the Ledger for duskmotts.
 - Making the universe owe you a favor.
+- Maybe have two ledgers - one for Ryan and one for the Universe.
 
 Main Character:
 
