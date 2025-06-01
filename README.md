@@ -25,6 +25,7 @@ Main Character:
 - A 2.5D type of Roguelite, maybe. Elevation could play a role.
 - How would that work with melee and range? Seems like it would be easy for the player to exploit.
 - (Maybe it should be.)
+- I like the idea of the chain being a liability, like where you run can allow some enemies to grab it and pull you back.
 
 
 
