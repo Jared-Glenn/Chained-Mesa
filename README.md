@@ -26,6 +26,8 @@ Main Character:
 - How would that work with melee and range? Seems like it would be easy for the player to exploit.
 - (Maybe it should be.)
 - I like the idea of the chain being a liability, like where you run can allow some enemies to grab it and pull you back.
+- Or maybe it keeps you from running away until you lengthen it somehow.
+- Maybe the chain wraps around obstacles, forcing you to dodge with the chain in mind.
 
 
 
